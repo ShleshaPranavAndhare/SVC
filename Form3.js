@@ -19,6 +19,7 @@ class Form3{
         this.button16=createButton("5:30 PM");
         this.button17=createButton("6:00 PM");
         this.button=createButton("Register");
+        this.greeting=createElement('h2');
     }
 
     hide(){
